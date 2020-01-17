@@ -31,3 +31,19 @@
     transform: rotate(360deg);
   }
 }
+
+.Players-Container{
+  display:flex;
+  flex-wrap: wrap;
+  
+
+}
+
+.Player-Container{
+
+  width: 20%;
+  margin:5%;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
